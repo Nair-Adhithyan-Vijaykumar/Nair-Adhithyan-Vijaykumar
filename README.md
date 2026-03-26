@@ -7,7 +7,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-adhithyanvijaykumar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhithyanvijaykumar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AdhithyanVNair-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdhithyanVNair)
+[![GitHub](https://img.shields.io/badge/GitHub-Nair--Adhithyan--Vijaykumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nair-Adhithyan-Vijaykumar)
+[![GitHub Alt](https://img.shields.io/badge/GitHub%20(Chat)-AdhithyanVNair-4a4a4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdhithyanVNair)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhithyan%20Nair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithyan-nair)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Adhithyan__009-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Adhithyan__009)
 [![Instagram](https://img.shields.io/badge/Instagram-nair__adhithyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nair_adhithyan/)
@@ -83,14 +84,14 @@ I don't chase shortcuts. I'm here to build **long-term technical depth** — one
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdhithyanVNair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhithyanVNair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nair-Adhithyan-Vijaykumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nair-Adhithyan-Vijaykumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdhithyanVNair&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nair-Adhithyan-Vijaykumar&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
