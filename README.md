@@ -1,4 +1,4 @@
-<h1 align="center">Adithyan</h1>
+<h1 align="center">Adhithyan Nair</h1>
 
 <p align="center">
   Building systems. Learning deeply. Improving daily.
